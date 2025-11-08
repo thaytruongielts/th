@@ -1,0 +1,5 @@
+{
+  "name": "English Grammar Practice",
+  "description": "An application to practice English grammar concepts with AI-generated exercises. Select a topic, and the app will provide gap-filling, short-answer, and multiple-choice questions to test your knowledge.",
+  "requestFramePermissions": []
+}
